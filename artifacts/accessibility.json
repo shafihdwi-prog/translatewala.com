@@ -1,0 +1,92 @@
+[
+  {
+    "path": "/",
+    "viewport": "desktop",
+    "violations": []
+  },
+  {
+    "path": "/languages",
+    "viewport": "desktop",
+    "violations": []
+  },
+  {
+    "path": "/languages/malayalam",
+    "viewport": "desktop",
+    "violations": []
+  },
+  {
+    "path": "/request-a-quote",
+    "viewport": "desktop",
+    "violations": []
+  },
+  {
+    "path": "/ar",
+    "viewport": "desktop",
+    "violations": []
+  },
+  {
+    "path": "/ar/request-a-quote",
+    "viewport": "desktop",
+    "violations": []
+  },
+  {
+    "path": "/web-design",
+    "viewport": "desktop",
+    "violations": []
+  },
+  {
+    "path": "/social-media-management",
+    "viewport": "desktop",
+    "violations": []
+  },
+  {
+    "path": "/digital-solutions",
+    "viewport": "desktop",
+    "violations": []
+  },
+  {
+    "path": "/packages",
+    "viewport": "desktop",
+    "violations": []
+  },
+  {
+    "path": "/packages?service=social",
+    "viewport": "desktop",
+    "violations": []
+  },
+  {
+    "path": "/contact",
+    "viewport": "desktop",
+    "violations": []
+  },
+  {
+    "path": "/privacy-policy",
+    "viewport": "desktop",
+    "violations": []
+  },
+  {
+    "path": "/",
+    "viewport": "mobile",
+    "violations": []
+  },
+  {
+    "path": "/request-a-quote",
+    "viewport": "mobile",
+    "violations": []
+  },
+  {
+    "path": "/packages",
+    "viewport": "mobile",
+    "violations": []
+  },
+  {
+    "path": "/packages?service=social",
+    "viewport": "mobile",
+    "violations": []
+  },
+  {
+    "path": "/ar",
+    "viewport": "mobile",
+    "violations": []
+  }
+]
